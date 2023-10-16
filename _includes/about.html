@@ -1,0 +1,17 @@
+<section class="hero is-fullheight has-text-centered has-background-white-ter" id="about">
+    <div class="hero-body">
+        <div class="container">
+            <div class="columns">
+                {% for author in site.authors %}
+                <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+                    <figure class="image">
+                        <img class="is-rounded" src="{{author.image}}" alt="{{author.name}}">
+                    </figure>
+                </div>
+                <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+                    <p>{{author.about}}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+</section>
