@@ -7,12 +7,12 @@ author-about: Verinvest to dynamiczna spółka inwestycyjna, która specjalizuje
 author-image: /assets/img/avatar.jpg
 
 authors:
-  - image: /assets/img/avatar.jpg
+  - image: https://verestro.com/uploads/media/images/0001/01/xthumb_178_images_small.jpeg.pagespeed.ic.3eH7J3nXbm.webp
     name: Krzysztof Drzyzga
-    about: Krzysztof Drzyzga
-  - image: /assets/img/avatar.jpg
+    about: 'Krzysztof Drzyzga - Ponad 20 lat doświadczenia: w branży finansowej, płatności zdalne i zbliżeniowe, programy lojalnościowe, zarządzanie produktami, wspieranie rozwoju branży fintech, startupów i zarządzanie produktami. Odpowiedzialny za ogólną strategię i rozwój Verestro.'
+  - image: https://verestro.com/uploads/media/images/0001/01/xthumb_85_images_small.jpeg.pagespeed.ic.Xy_gTCxq6c.webp
     name: Michał Maciąg
-    about: Michał Maciąg
+    about: 'Michał Maciąg - Z branżą płatniczą i fintech związany od 12 lat. Odpowiedzialny za dział IT i jego dynamiczny rozwój.'
 
 address: ul.Promienna 10, 03-672 Warszawa
 email: Ver-invest@verestro.com
