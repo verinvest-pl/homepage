@@ -1,7 +1,7 @@
 ---
 title: Zmiany prawne dotyczące uczestnictwa osób fizycznych w Alternatywnych Spółkach Inwestycyjnych
 layout: post
-post-image: "/assets/img/hero.jpg"
+post-image: "/assets/img/post2.jpg"
 description: Zmiany prawne dotyczące uczestnictwa osób fizycznych w Alternatywnych Spółkach Inwestycyjnych
 tags:
 ---
